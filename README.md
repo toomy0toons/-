@@ -1,4 +1,13 @@
 # 인공지능 프로젝트 가이드
+
+정보적사고 인공지능 프로젝트 가이드 입니다. 
+
+아래 3개의 사이트 사용법을 다루고 있습니다.
+ 
+1. [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
+2. [Teachable Machine](https://teachablemachine.withgoogle.com/)
+3. [A Neural Network Playground](http://playground.tensorflow.org/)
+
 ## 1. Machine Learning For kids
 ### 1.1 계정만들기
 [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login)
